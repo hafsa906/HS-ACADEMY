@@ -1,0 +1,83 @@
+.navbar{
+    background-color: #cebdc0 !important;
+}
+.navbar img{
+    height: 46px;
+}
+.nav-link{
+    font-weight: bold;
+}
+.fa-user-circle-o{
+    font-size: 32px !important;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.click:hover{
+    background-color: #ad989c;
+    border-radius: 1.15rem;
+}
+.container{
+    margin-top: 30px;
+}
+.card-body{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+.alignment{
+    text-align: center;
+}
+.coursesbtn{
+    justify-content: center;
+    text-align: center;
+}
+.row, .card{
+    margin-top: 10px;
+}
+.btn{
+    background-color: #cebdc0;
+    color: rgba(0,0,0,.55);
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: #ad989c;
+}
+.fb{
+    background-color: #3b5998;;
+}
+.twiter{
+    background-color: #55acee;
+}
+.google{
+    background-color: #dd4b39;
+}
+.insta{
+    background-color: #ac2bac;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.2);
+    color: black;
+    font-weight: bold;
+}
+@media only screen and (max-width: 576){
+        .adjust1{
+            margin-left: 24%;
+        }
+}
+
+@media only screen and (max-width: 768px){
+    .adjust1{
+        margin-left: 24%;
+    }
+    .adjust3{
+        width: 50%;
+    }
+} 
+
+@media only screen and (max-width: 992px){
+    .adjust2{
+        margin-left: 24%;
+    }
+    .
+}
